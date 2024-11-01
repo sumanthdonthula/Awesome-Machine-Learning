@@ -1,4 +1,4 @@
-# Sumanth Donthula's Learning Resources
+# Machine Learning Resources
 
 Curating important resources in **Python**, **Machine Learning**, and **Deep Learning** from open source university.
 
