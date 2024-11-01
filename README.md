@@ -1,6 +1,6 @@
 # Sumanth Donthula's Learning Resources
 
-Curating important resources in **Python**, **Machine Learning**, and **Deep Learning**.
+Curating important resources in **Python**, **Machine Learning**, and **Deep Learning** from open source university.
 
 ## 📚 Python Classes and OOP
 - **YouTube Playlist:** [Python Classes and OOP](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&index=1)
