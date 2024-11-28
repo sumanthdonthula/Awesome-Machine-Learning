@@ -2,8 +2,8 @@
 
 Curating important resources in **Python**, **Machine Learning**, and **Deep Learning** from open source university.
 
-## 📚 Python Classes and OOP
-- **YouTube Playlist:** [Python Classes and OOP](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&index=1)
+## 📚 Python OOPs
+- **YouTube Playlist:** [Python OOPs](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&index=1)
 
 ## 🖥️ MIT Essential Tools for CS
 - **YouTube Playlist:** [MIT Essential Tools for CS](https://youtube.com/playlist?list=PLRQmQC3wIq9xT03Jq6l2fwIzx8g4ThG0F&si=bs43a_Ajwzh9kAHD)
